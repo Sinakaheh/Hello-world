@@ -1,0 +1,23 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "new world we have made this readme-edits which is a copy of the master (diffinit branch) for codin on various versions of a file in order to be able to run and test out codes before commiting them",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "better-sqlite3": "^12.2.0",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "pino": "^9.8.0",
+    "pino-pretty": "^13.1.1"
+  },
+  "devDependencies": {
+    "playwright": "^1.54.2"
+  }
+}
